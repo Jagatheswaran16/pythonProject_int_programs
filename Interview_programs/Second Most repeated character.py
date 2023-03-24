@@ -1,4 +1,4 @@
-s="jajgatthestwaran"
+s=input("enter the word")
 k={}
 
 for i in s:
