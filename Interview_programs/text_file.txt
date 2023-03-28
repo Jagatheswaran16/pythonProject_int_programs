@@ -1,0 +1,5 @@
+index data Represents various forms like series, map, ndarray, lists, index, dict etc.
+index test index
+Optional argument that represents an testing to row labels.
+columns Optional argument for column labels and index.
+Dtype the data type of each column. Again optional and index.
