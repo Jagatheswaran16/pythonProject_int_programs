@@ -1,4 +1,4 @@
-s="JagatheswaraAn"
+s="JagathEswaraAn"
 k=[]
 for i in s:
     if i in "aeiouAEIOU" :
