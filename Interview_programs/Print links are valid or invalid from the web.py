@@ -10,8 +10,11 @@ from selenium.webdriver.support.ui import Select
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from  selenium.webdriver.chrome.service import Service
+s=Service('C:/Users/jagatheswaran.m/PycharmProjects/pythonProject3/chromedriver.exe')
+driver=webdriver.Chrome(service=s)
 
-driver = webdriver.Chrome(executable_path='C:/Users/jagatheswaran.m/PycharmProjects/pythonProject3/chromedriver.exe')
+#driver = webdriver.Chrome(executable_path='C:/Users/jagatheswaran.m/PycharmProjects/pythonProject3/chromedriver.exe')
 #driver = webdriver.Edge(executable_path='C:/Users/jagatheswaran.m/PycharmProjects/pythonProject/msedgedriver.exe')
 driver.maximize_window()
 
