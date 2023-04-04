@@ -17,4 +17,12 @@ driver.maximize_window()
 
 driver.implicitly_wait(4)
 driver.get("https://google.com")
-k=driver.find_elements(By.LINK_TEXT, 'a')
+k=driver.find_elements(By.TAG_NAME, 'a')
+for i in k:
+   l=i.get_attribute('href')
+   a=requests.get(l)
+
+   if a.status_code==200:
+       print(a, "Link is Good")
+   else:
+       print("Link is broken")
