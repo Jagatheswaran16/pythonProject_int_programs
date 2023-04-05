@@ -25,6 +25,6 @@ for i in k:
    l=i.get_attribute('href')
    a=requests.get(l)
    if a.status_code==200:
-       print(a, "Link is Good")
+       print(a, "Link is valid")
    else:
        print("Link is broken")
