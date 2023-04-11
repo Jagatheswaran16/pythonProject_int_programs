@@ -8,14 +8,4 @@ def test(n):
 test(6)
 
 
-            print("5", end="")
-        print("\r")
-
-test(6)
-print("done")
-
-            print("10", end="")
-        print("\r")
-
-test(6)
 
