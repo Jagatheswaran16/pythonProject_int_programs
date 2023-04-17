@@ -1,0 +1,53 @@
+Personal Target 1 for Year N are:	Weightage :	40
+1. Team Objectives:
+• Testing on respective Test environments.
+• Setup the environments/Tools/Devices needed.
+• follow up with the respective teams to ensure that every hardware is ordered/Procured and available on time.
+• Non compliant softwares should not be installed, unless approved by IT team.
+• proactive measures and follow ups to configure the devices used for testing.
+• Analyzing the issues and reporting.
+• Zero Duplicate/Rejected Defects
+• Quality Test cases and Defects created in respective Test management Tools.
+• Increased Productivity of 10% year on Year
+• Modification of test cases and automation scripts if necessary.
+• Edit/Update the test cases for more clarity
+• Modification of test cases and automation scripts if necessary.
+• Edit/Update the test cases for more clarity
+• Team autonomy:
+• Team needs to gain functional knowledge on modules/features where they have mostly worked on. This is to help fast identification of issues during test execution.
+Team collaboration:
+• Team to work with each other and have good team spirit. Try to be active and not passive.
+• Do not spread Rumours
+• Avoid conflicts
+Technical Quality:
+• Learn and expertise on any new Tool year on year
+• Ensure that Peer Reviews, updating the code review comments from peers (if any),
+Sprint Success & Improvement:
+• Active participation on project meetings
+• Align with the Team to enhance and provide best customer satisfaction.
+• Sprints should be successful with at least 95% completion rate (with exception of external dependencies)
+•Reactivity - effective communication on time (Should be on top of all requests
+•No escalations from clients about Test deliverables
+--------------------------------------------
+Personal Target 2 for Year N are:	Weightage :	40
+2. Team/Technical Leadership
+• Provide the required support to team members to achieve their set objectives, finally to be successful as a team
+• Makes technical decisions on EDT - Testing/Automation solution.
+• Support and work together with onsite co-ordinator for better quality of deliverables.
+• Provide the required help to prepare presentations especially on technical architecture/design topics for the project review meetings and participate, if needed.
+On-time reports - Ensure to publish the reports (Status reports, Monthly, Weekly and QA reports, etc)
+• Team happiness- The team should be highly engaged and should be happy at the same time.
+• Have regular 1-1 connects with your manager and team mates
+-------------------------------------------------------
+Personal Target 3 for Year N are:	Weightage :	10
+3. Timesheet should be submitted on a weekly basis (e.g. Orange HRM/StoHRM/ionBiz)-Atleast weekly
+• No Missing Timesheets
+• Plan long leaves well in advance and communicate and have back-up plans inplace (if necessary) - (see that no/least impact on the project) (Ongoing)
+•Take part in organizing and Participating all Team events
+--------------------------------------------------------
+Personal Target 4 for Year N are:	Weightage :	10
+4. Complete the stipulated number of hours (40 hours) of training through learning wallet according to the trainings planned for you, to help meet the • • project training needs and also for your own development.
+Complete all mandatory trainings within the deadline
+• Organize at least 2 knowledge sharing session in the year with the team
+• Atleast 1 certification to be achieved every year
+

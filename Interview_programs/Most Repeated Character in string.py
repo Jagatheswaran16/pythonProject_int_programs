@@ -9,4 +9,4 @@ for i in s:
         k[i]=1
 
 result=max(k, key=k.get)
-print(result)
+print("repeated character=", result, "Count=", k[result])

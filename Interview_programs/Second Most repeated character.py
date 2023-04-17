@@ -9,4 +9,7 @@ for i in s:
         k[i]=1
 
 r=sorted(k, key=k.get, reverse=True)
-print("second most repated" , r[1])
+print(r)
+print("second most repated=" , r[1])
+print("Repeated count=", k[r[1]])
+
