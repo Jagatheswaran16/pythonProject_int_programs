@@ -1,0 +1,161 @@
+Python + BDD interview questions
+--------------------------------------------------------
+wipro
+1. how to scroll Up and Down in webpge using selenium?
+2. find repeated text like 'Selenium' word count it.
+3. How to take logs?
+4. How to delete cache in selenium.
+5. what is discussed in daily scrum meeting?
+6. What is product backlog in agile?
+----------------------------------------------------
+siemens- selected
+1. write a program to ignore duplicate number
+2. write a program to count maximum repeated number
+3. Explian ur framework
+4. Sprint planing from which cerimoni? Ans:- Sprint cerimoni
+5. POST vs PUT in API?
+6. what is Method overidding and where you have used in your framework
+7. create a dictionary
+8. print the range between 0 to 1000 using range function
+9. reverse the string
+10. find duplicated string in list and also try using list comprehension as well
+11. diff btw tuples, list, array, dictionary
+12. what is regular expression in python
+13. what is BDD
+14. Write a feature file
+15. What is 'BUT' keyword in BDD
+16. Get the id and name from the table and use lambda function
+17. what are the API methods do we have?
+18. if we have a 3,4 windows opened in selenium how will you switch to other windows
+19. diff btw close() and quit() in selenium
+20. What is Given, when, then, AND keyword in BDD and when we will use "AND" keyword
+21. Why method overloading is not supported in python?
+22. Get the value from dict and inctrement by 1 (e.g input={'A':10, 'B':20} o/p= {'A'=11, 'B'=12})
+23. Diffrenet between array and list?
+manual:
+1. diff btw system and regression and integration
+2. diff btw web and mobile application testing
+3. when we will do regression testing?
+4. Bug life cycle
+------------------------------------------------------
+pwc- till manager round
+1. print a string without space (i/p hello wolrd o/p- helloworld)
+2. Reverse the string
+3. implicit wait and explicit wait syntax
+4. if we have a 3,4 windows opened in selenium how will you switch to other windows
+5. open a website and write an xpath, parent to child and child to parent
+6.what is diff between no such element execption and element not found exception?
+7.what kind of the exceptions you have faced in ur projects?
+
+8. then manager round 2- managerial + testing questions
+----------------------------------------------------------------
+allegion:
+1. Explain your framework
+2. framework related questions- got many questions from framework
+3. quit() vs close()
+4. explicit wait syntax
+5. screenshot syntax
+6. what 400 and 500 code error in API(Ans; 400-client error, 500-server error)
+7. how to handle exceptions in python
+8. Actionchain and drag and drop syntax
+9. if i want to execute my framework in different browser how will i do it?
+10. write code for deepcopy and shallow copy
+11. write program Given an list of no, return true if the array contains two 7’s next to each other,
+or there are two 7’s separated by one element. l=[7,7,1,2] it should say true
+12. write a program to find 2nd largest number
+13. smoke vs sanity testing different?
+14. sprint activities questions
+15. write a code to intilize the browser in selenium
+16 what is __init__ in python
+-------------------------------------------------------------
+UST global
+1. What is functinal testing
+2. What is sanity , integration, regression testing
+3. explain review process
+4. Find 2nd largest number in arry
+5. Find vovels in ur name
+6. How do you handle exceptions in python
+7.What is git pull?
+8. what is __init__ in python
+---------------------------------------------------------
+Capgemini
+1. What is python decorater and expline in code
+2. convert list in to dictionary
+3. OOps concept
+4. Explain encapsulation
+5. Can we access private variables in oustide of  python class?
+6. What is BDD framwork and explain
+7. What is robot framwork
+8. what is the use of list comprhension
+9. what are the modules we have in python
+10. input='jagathes hello', op=Jagathes Hello'
+11. extend vs append
+12. multi thredding
+13.multiple inheritance
+14.input='hello bengalore', op=Hello Bengalore' without using pre defined function
+15. how to scroll
+16. what is stale element exception and how to resolve stale elemenet exception
+17. hooks in cucumber
+18. list vs tuples
+19. what is numpy array?
+20. access modifier in python
+21. what is scenario outline and what is data table
+22. what is background in cucmber
+23. what is pass keyword in python
+24. what type of execption u have faced in ur framework?
+25. what is test runner class? and what are the details will you keep?
+26. what is feature file in BDD?
+27. how to do API testing in python?
+28. What is polymorphisum and were in framwork we are using this?
+29. what is return type of find element, find elements, window handle, window handles
+30. How to resolve stale element exception?
+31. how to take a screenshot if ur test script gets failed?
+32. explain selenium architecture
+33. how to get logs in selenium python?
+34. how to do mouseover in selenium?
+35. write code for deepcopy and shallow copy
+client round:
+1. What is regression testing when we will do?
+2. What is bug life cycle?
+3. what is peformnace testing and what is benchmark?
+4. What is traceablility matrix
+5. How to connect to data base in selenium python?
+(ans- Install MySQL Driver.Create a connection Object. Create a cursor Object.Execute the Query.)
+
+6. which are the language can be used in selenium?
+7. Action class? and is there any other class for mouse action?
+8. what are the Action class methods?
+9. Open a file from desktop and add one word.
+10. write a feature file
+11. What is feature file
+12. Which language is used in feature file?
+13. How to handle a alert?
+14. how do we teriminate the file in linux? (ans: Kill <pid>)
+15. What is tuple?
+16. How to refresh the page?
+17. How to create HTML report in selenium python?
+18. What is acceptance testing?
+19. What is integartion testing?
+---------------------------------------------------------------------
+leica
+1. explain your project? and questions from project?
+2. what type of testing u have done and explian them?
+3. what is smoke testing and what is regression testing?
+4. Explain agile cerimonies?
+5. what is hooks?
+6. when hooks will get executed?
+7. open amazon website and add a product
+8. write a program to count the characters in string.
+9. what is polymorphisum and explain
+10. when hooks with get exeuted in cucmber? every scenario or every feature file? (Ans: Every scenario)
+
+11. Scenario A and Scenario B we have in one feature file. i want scenario A(Username, password) data should be transfer to scenario B
+how to do in our feature file? (ans:- you can save the username and password in an excel or .txt file
+and then retrieve the info in scenario b)
+
+12. what report we are using and explain?
+13. People find a bug in production and how to ensure avaid that in next time?
+14. how feature file and step definition files are connected?
+15. what is Regression, Sanity, smoke testing?
+16. Bug life cycle.?
+----------------------------------------------------------------------------------------
