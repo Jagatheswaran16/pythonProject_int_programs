@@ -23,8 +23,8 @@ for j in k:
     l=j.get_attribute('href')
     a=requests.get(l)
 
-    if a.status_code==200:
-        print("sucess", a)
+    if a.status_code>=400:
+        print("broken link", a)
 
     else:
-        print("not sucess")
+        print("sucess")
